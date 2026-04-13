@@ -4,3 +4,5 @@
 #### Open nodes panel--->Menual Trigger click koro--->Menual Trigger er + sign click koro---> search & click: HTTP Request---> URL e daw--->https://api.weatherapi.com/v1/current.json---> select koro: Send Query Parameters
 ---> value set koro
 ![](https://imgur.com/1UHvobw.png) 
+#### Execute workflow click koro--->HTTP Request open koro---
+![](https://imgur.com/MGcQ7gp.png)
