@@ -1,5 +1,6 @@
 ## n8n-Weather-Alert-Automation-08
 #### Visit---https://www.weatherapi.com/--->Sign Up koro--->gmail e message send korle oikhan theke login url click koro--->login koro--->API Key copy koro.
-#### Open nodes panel--->Menual Trigger click koro--->Menual Trigger er + sign click koro---> search & click: HTTP Request--->
-
-#### check browser---> https://api.weatherapi.com/v1/current.json?key= [amar copy kora api ekhane paste korbo]
+#### check browser---> https://api.weatherapi.com/v1/current.json?key=[amar copy kora api ekhane paste korbo kono space rakha jabe na]&q=dhaka&aqi=no ---> Enter chapo. ---> value show hobe.
+#### Open nodes panel--->Menual Trigger click koro--->Menual Trigger er + sign click koro---> search & click: HTTP Request---> URL e daw--->https://api.weatherapi.com/v1/current.json---> select koro: Send Query Parameters
+---> value set koro
+![](https://imgur.com/1UHvobw.png) 
