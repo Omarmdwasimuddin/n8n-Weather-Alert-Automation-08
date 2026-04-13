@@ -6,3 +6,5 @@
 ![](https://imgur.com/1UHvobw.png) 
 #### Execute workflow click koro--->HTTP Request open koro---
 ![](https://imgur.com/MGcQ7gp.png)
+#### >HTTP Request e + sign click koro---> search & click: if--->value set koro
+![](https://imgur.com/tGiXnk5.png)
