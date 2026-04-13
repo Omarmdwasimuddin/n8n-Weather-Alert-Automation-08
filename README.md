@@ -6,5 +6,7 @@
 ![](https://imgur.com/1UHvobw.png) 
 #### Execute workflow click koro--->HTTP Request open koro---
 ![](https://imgur.com/MGcQ7gp.png)
-#### >HTTP Request e + sign click koro---> search & click: if--->value set koro
+#### HTTP Request e + sign click koro---> search & click: if--->value set koro
 ![](https://imgur.com/tGiXnk5.png)
+#### Execute workflow click koro--->If er true er + sign click koro---> search & click: gmail--->click: Send a message--->value set koro.
+![](https://imgur.com/457kmNh.png)
